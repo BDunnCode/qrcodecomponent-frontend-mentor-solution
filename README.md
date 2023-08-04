@@ -1,0 +1,1 @@
+# qrcodecomponent-frontend-mentor-solution
